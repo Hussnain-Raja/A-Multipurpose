@@ -2,7 +2,7 @@
 
 * {
     padding: 0;
-    margin: 0;
+    margin: 0 auto;
     font-family: 'Roboto';
 }
 
@@ -243,7 +243,126 @@
 
 }
 
-.v2 img {
-    margin-top: 6rem;
-    background-color: #0061f2;
+.container4 {
+    margin-top: 40px;
+    padding-top: 10rem !important;
+    width: auto;
+    padding-bottom: 6rem !important;
+    background-color: #f2f6fc
+}
+
+.imgc4 img {
+    width: 100%;
+    height: 400px;
+    transform: skew(0, 15deg);
+
+    perspective: 1500px !important;
+    transform-style: preserve-3d !important;
+    transform: rotateY(30deg) rotateX(15deg) !important;
+    -webkit-backface-visibility: hidden !important;
+    backface-visibility: hidden !important;
+}
+
+.c4h1 h2 {
+    display: block;
+    font-size: calc(1.265rem + .18vw);
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #363d47;
+    font-family: 'Roboto';
+    margin-left: 58px;
+}
+
+.c4p p {
+    font-size: 1.1rem;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: block;
+    margin-left: 58px;
+}
+
+.c1hp h6 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.c1hp p {
+    margin-bottom: 0.5rem !important;
+    font-size: .875em;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: block;
+}
+
+
+.c2hp h6 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.c2hp p {
+    margin-bottom: 0.5rem !important;
+    font-size: .875em;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: block;
+}
+
+.c3hp h6 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.c3hp p {
+    margin-bottom: 0.5rem !important;
+    font-size: .875em;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: block;
+}
+
+.c4hp h6 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.c4hp p {
+    margin-bottom: 0.5rem !important;
+    font-size: .875em;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: block;
+}
+
+.container5 {
+    padding-top: 6rem !important;
+    padding-bottom: 6rem !important;
+    width: auto;
 }
