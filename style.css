@@ -366,3 +366,195 @@
     padding-bottom: 6rem !important;
     width: auto;
 }
+
+.c6 {
+    background-color: #212832;
+}
+
+.container6 {
+    padding-bottom: 6rem !important;
+    background-color: #212832;
+}
+
+.c61 h5 {
+    font-size: 1.1rem;
+    -webkit-text-opacity: 1;
+    margin-top: 0;
+    margin-bottom: 0.9rem;
+    font-weight: bold;
+    line-height: 1.2;
+    display: block;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: #fff;
+}
+
+.c61 p {
+    -webkit-text-opacity: 1;
+    color: #90948f;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-bottom: 70px;
+}
+
+
+
+.c62 h5 {
+    font-size: 1.1rem;
+    -webkit-text-opacity: 1;
+    margin-top: 0;
+    margin-bottom: 0.9rem;
+    font-weight: bold;
+    line-height: 1.2;
+    display: block;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: #fff;
+}
+
+.c62 p {
+    -webkit-text-opacity: 1;
+    color: #90948f;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-bottom: 70px;
+}
+
+
+.c63 h5 {
+    font-size: 1.1rem;
+    -webkit-text-opacity: 1;
+    margin-top: 0;
+    margin-bottom: 0.9rem;
+    font-weight: bold;
+    line-height: 1.2;
+    display: block;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: #fff;
+}
+
+.c63 p {
+    -webkit-text-opacity: 1;
+    color: #90948f;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-bottom: 70px;
+}
+
+.c64 h5 {
+    font-size: 1.1rem;
+    -webkit-text-opacity: 1;
+    margin-top: 0;
+    margin-bottom: 0.9rem;
+    font-weight: bold;
+    line-height: 1.2;
+    display: block;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: #fff;
+}
+
+.c64 p {
+    -webkit-text-opacity: 1;
+    color: #90948f;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-bottom: 70px;
+}
+
+.brp span {
+    padding: 0.5em 1em;
+    border-radius: 50rem !important;
+    color: #ffffff80 !important;
+    background-color: #0000001a !important;
+    margin-bottom: 1.5rem !important;
+    display: inline-block;
+    font-size: .75em;
+    font-weight: 400;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+}
+
+.brp h2 {
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    text-align: center !important;
+}
+
+.brp p {
+    -webkit-text-opacity: 1;
+    color: #90948f !important;
+    margin-bottom: 2.5rem !important;
+    font-size: 1.1rem;
+    font-weight: 400;
+    margin-top: 0;
+    text-align: center !important;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.brp button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500 !important;
+    color: #fff;
+    background-color: #00ba94;
+    border-color: #00ba94;
+    display: inline-block;
+    line-height: 1;
+    color: #69707a;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    padding: 0.875rem 1.125rem;
+    font-size: .875rem;
+    border-radius: 0.35rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    text-align: center !important;
+}
